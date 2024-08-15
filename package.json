@@ -1,5 +1,5 @@
 {
-  "name": "node-blue-boilerplate",
+  "name": "f1-webapi",
   "version": "1.0.0",
   "description": "A simple F1 themed WebAPI using Node.js and Fastify",
   "main": "index.js",
@@ -17,5 +17,8 @@
     "tsup": "^8.0.2",
     "tsx": "^4.7.1",
     "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "fastify": "^4.28.1"
   }
 }
