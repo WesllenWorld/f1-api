@@ -1,7 +1,12 @@
 import fastify from 'fastify'
+import cors from '@fastify/cors'
 import { StatusCode } from './enums/http-status-code'
 
 const server = fastify({ logger: true })
+
+server.register(cors, {
+    origin: '*',
+})
 
 const drivers = [
     {
