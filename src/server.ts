@@ -68,7 +68,68 @@ const drivers = [
         name: "Alexander Albon",
         team: "Williams",
         country: "New Zealand"
-    }
+    },
+    {
+        id: 11,
+        name: "Sergio Perez",
+        team: "Red Bull Racing",
+        country: "Mexico"
+    },
+    {
+        id: 12,
+        name: "George Russell",
+        team: "Mercedes",
+        country: "United Kingdom"
+    },
+    {
+        id: 13,
+        name: "Esteban Ocon",
+        team: "Alpine",
+        country: "France"
+    },
+    {
+        id: 14,
+        name: "Lance Stroll",
+        team: "Aston Martin",
+        country: "Canada"
+    },
+    {
+        id: 15,
+        name: "Valtteri Bottas",
+        team: "Kick Sauber",
+        country: "Finland"
+    },
+    {
+        id: 16,
+        name: "Kevin Magnussen",
+        team: "Haas",
+        country: "Denmark"
+    },
+    {
+        id: 17,
+        name: "Daniel Ricciardo",
+        team: "Visa Cash App Racing Bulls",
+        country: "Australia"
+    },
+    {
+        id: 18,
+        name: "Logan Sargeant",
+        team: "Williams",
+        country: "United States"
+    },
+    {
+        id: 19,
+        name: "Oscar Piastri",
+        team: "McLaren",
+        country: "Australia"
+    },
+    {
+        id: 20,
+        name: "Carlos Sainz",
+        team: "Ferrari",
+        country: "Spain"
+    },
+    
 ]
 const teams = [
     {
